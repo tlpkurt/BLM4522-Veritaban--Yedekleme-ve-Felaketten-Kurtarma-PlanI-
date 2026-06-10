@@ -20,7 +20,6 @@ Projede **50.000 Müşteri**, **500.000 Sipariş** ve **500.000 Ödeme İşlemi*
 │   └── pitr_setup.sh                  # WAL sürekli arşivleme ve PITR kurulum yönergeleri betiği
 │
 ├── report.md                          # Akademik standartlarda detaylı Türkçe proje raporu
-├── presentation_script.md             # En az 10 dakikalık video sunumu için psql/pgAdmin tabanlı konuşma rehberi
 └── README.md                          # Kurulum ve hızlı başlangıç kılavuzu (Bu dosya)
 ```
 
