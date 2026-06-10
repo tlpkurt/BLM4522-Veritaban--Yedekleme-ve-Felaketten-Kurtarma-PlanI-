@@ -1,0 +1,14 @@
+# Veritabanı yedekleri ve arşiv dosyaları
+*.dump
+*.backup
+*.tar
+*.sql.gz
+backups/
+archive/
+tmp/
+
+# Sistem ve Editör dosyaları
+.DS_Store
+.vscode/
+.idea/
+*.log
